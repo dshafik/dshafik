@@ -13,7 +13,7 @@ You might know me from projects such as [PHP Internals](https://github.com/php/p
 
 <p align="center">
   <a href="mailto:davey@php.net">
-    <img src="images/for-hire.png" alt="Available for Work" />
+    <img src="images/for-hire.png" width="800" height="800" alt="Available for Work" />
   </a>
 </p>
 
