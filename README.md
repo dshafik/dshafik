@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="mailto:davey@php.net">
+    <img src="images/for-hire.png" width="800" height="800" alt="Available for Work" />
+  </a>
+</p>
+
 ## Hi, I'm Davey
 
 You might know me from projects such as [PHP Internals](https://github.com/php/php-src), the [PHP 7+ MySQL Shim](https://github.com/dshafik/php7-mysql-shim), or most recently [Bag: Immutable Values Objects for PHP (and Laravel)](https://bagvalueobjects.com).
@@ -8,12 +14,6 @@ You might know me from projects such as [PHP Internals](https://github.com/php/p
   </a>
   <a href="https://github.com/dshafik/php7-mysql-shim">
         <img width="200" height="200" src="/images/php7-mysql-shim.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:davey@php.net">
-    <img src="images/for-hire.png" width="800" height="800" alt="Available for Work" />
   </a>
 </p>
 
