@@ -1,6 +1,6 @@
 <p align="center">
   <a href="mailto:davey@php.net">
-    <img src="images/for-hire.png" width="800" height="800" alt="Available for Work" />
+    <img src="images/for-hire.png" style="width: 100%" alt="Available for Work" />
   </a>
 </p>
 
